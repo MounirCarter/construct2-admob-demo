@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<widget id="construct.admob.app" version="1.0.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="construct.admob.app" version="1.0.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://phonegap.com/ns/1.0">
 	<name>Construct 2-admob</name>
 	<description>Construct 2 admob demo</description>
 	<author email="mounirdcarter@gmail.com">Mounir Carter</author>
